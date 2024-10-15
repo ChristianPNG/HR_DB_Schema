@@ -5,6 +5,8 @@
 Purpose
 This script is designed for testing and demonstrating the functionality of a Human Resource Management System (HRMS) within an Oracle Database environment. It serves as a foundation for evaluating database operations, trigger automation, and data manipulation techniques.
 
+This was the final exam submission for UD's database class
+
 Overview
 The HRMS SQL script encompasses the following components:
 
