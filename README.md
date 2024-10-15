@@ -7,7 +7,7 @@ This script is designed for testing and demonstrating the functionality of a Hum
 
 This was the final exam submission for UD's database class
 
-Overview
+## Overview
 The HRMS SQL script encompasses the following components:
 
 SQL Script: A comprehensive set of SQL commands that define the database structure and functionalities for managing human resources.
